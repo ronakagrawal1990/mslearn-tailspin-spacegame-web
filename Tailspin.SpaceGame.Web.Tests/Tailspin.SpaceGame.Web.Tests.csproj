@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Tailspin.SpaceGame.Web\Tailspin.SpaceGame.Web.csproj" />
-    <ProjectReference Include="Add coverlet.msbuild package" />
+    <ProjectReference Include="coverlet.msbuild package" />
   </ItemGroup>
 
 </Project>
